@@ -1,2 +1,2 @@
 # Lanmark-detection
-Facial lanmark detection on self constructed dataset
+Facial Landmark Recognition on images received from webcam
